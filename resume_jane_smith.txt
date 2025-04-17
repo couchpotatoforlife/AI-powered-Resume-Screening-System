@@ -1,0 +1,13 @@
+Jane Smith  
+Email: jane.smith@example.com  
+Phone: +91-8765432109  
+
+Education:  
+- B.E. in Electronics, XYZ Institute, 2021  
+
+Skills:  
+- C++, MATLAB, Data Structures, NLP  
+
+Experience:  
+- Software Developer Intern at CodeLabs (Feb 2021 – Aug 2021)  
+- Worked on sentiment analysis models using Python  

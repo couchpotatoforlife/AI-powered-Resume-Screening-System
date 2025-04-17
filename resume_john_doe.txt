@@ -1,0 +1,13 @@
+John Doe  
+Email: john.doe@example.com  
+Phone: +91-9876543210  
+
+Education:  
+- B.Tech in Computer Science, ABC University, 2022  
+
+Skills:  
+- Python, Machine Learning, SQL, Git, NumPy  
+
+Experience:  
+- Data Analyst Intern at DataCorp (Jan 2022 – May 2022)  
+- Built dashboards using Python and Excel  

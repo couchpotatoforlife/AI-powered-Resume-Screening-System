@@ -1,0 +1,13 @@
+Ravi Kumar  
+Email: ravi.kumar@example.com  
+Phone: +91-9123456789  
+
+Education:  
+- B.Tech in Information Technology, DEF College, 2023  
+
+Skills:  
+- Java, HTML, CSS, JavaScript, Flask  
+
+Experience:  
+- Web Development Intern at WebTech (Jun 2023 – Sep 2023)  
+- Developed front-end features for internal HR portal  
