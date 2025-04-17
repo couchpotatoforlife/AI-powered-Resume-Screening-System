@@ -1,3 +1,4 @@
-To run this app locally:
-1. pip install -r requirements.txt
-2. streamlit run app.py
+## How to Run
+1. Clone this repository.
+2. Install dependencies: `pip install -r requirements.txt`
+3. Run the app: `streamlit run app.py`
